@@ -1,3 +1,5 @@
+
+//program of class 
 function company(name,city,est){
     this.gf=10;
   this.name=name;
